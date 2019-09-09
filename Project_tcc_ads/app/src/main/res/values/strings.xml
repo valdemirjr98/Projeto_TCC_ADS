@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Project_tcc_ads</string>
+    <string name="texto_primario">Localize seus ônibus de maneira rápida e facil!</string>
+    <string name="texto_secundario">Simples, rapido, facil e grátis</string>
+    <string name="plus">plus</string>
+    <string name="texto_principal_intro_2">Todas as rotas de onibus de Americana/SP</string>
+    <string name="texto_secundario_intro_2">Para facilitar cada vez mais o seu dia-a-dia.</string>
+    <string name="image_intro_2">TODO</string>
+    <string name="texto_primario_intro_3">Não perca mais os onibus e chegue no horario em seus compromissos</string>
+    <string name="texto_secundario_intro_3">Pontualidade e responsabilidade</string>
+    <string name="imagem_intro_3">TODO</string>
+    <string name="titulo_intro_cadastrar">Se Cadastre Gratuitamente!</string>
+    <string name="texto_secundario_intro_cadastrar">Cadastre-se e faça parte dessa familia</string>
+    <string name="btcadastrar_se">Cadastrar-se</string>
+    <string name="textview_j_possui_um_conta">Já possui um conta?</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 2</string>
+</resources>

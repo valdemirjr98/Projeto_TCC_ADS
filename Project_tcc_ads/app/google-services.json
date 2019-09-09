@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "847803591904",
+    "firebase_url": "https://projeto-ads-tcc.firebaseio.com",
+    "project_id": "projeto-ads-tcc",
+    "storage_bucket": "projeto-ads-tcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847803591904:android:4f841ad9b338263c463485",
+        "android_client_info": {
+          "package_name": "br.fatec.project_tcc_ads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847803591904-ob3i648o7vhphn3tfn4rkgv356pt4lh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.fatec.project_tcc_ads",
+            "certificate_hash": "0748037a93401ad788ff46d46db9ba7530d52c69"
+          }
+        },
+        {
+          "client_id": "847803591904-ufeesnto3qen9pjop1s37he4j1lacuga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX9tJFbqbYzYT45ZQPTVgvzMqlDLX3zCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847803591904-ufeesnto3qen9pjop1s37he4j1lacuga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
